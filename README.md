@@ -10,12 +10,14 @@ Exploratory analysis of EV adoption patterns
 VBA/macros for enhanced interactivity (macro-enabled .xlsm file)
 
 *🔧 Tools Used*
+
 Microsoft Excel (with macros)
 Pivot Tables & Charts
 VBA (for macro-based enhancements)
 Data Wrangling in Excel
 
 *📈 Concepts Covered*
+
 Data aggregation and pattern recognition
 Report building using Excel
 Real-world application of data visualization for stakeholders
