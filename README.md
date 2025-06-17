@@ -3,15 +3,7 @@ This project is a comprehensive Excel-based data analysis dashboard focused on e
 
 *The assignment covers topics relevant to data science such as:*
 
-Data cleaning and preprocessing
-
-Data summarization with Pivot Tables
-
-Visual analytics with charts and graphs
-
-Exploratory analysis of EV adoption patterns
-
-VBA/macros for enhanced interactivity (macro-enabled .xlsm file)
+Data cleaning and preprocessing, data summarization with Pivot Tables, visual analytics with charts and graphs, exploratory analysis of EV adoption patterns and VBA/macros for enhanced interactivity (macro-enabled .xlsm file)
 
 
 *🔧 Tools Used*
