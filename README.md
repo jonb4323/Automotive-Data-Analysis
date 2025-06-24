@@ -6,7 +6,8 @@ This project was done as an assignment for one of my classes (CP212), it is a co
 Data cleaning and preprocessing, data summarization with Pivot Tables, visual analytics with charts and graphs, exploratory analysis of EV adoption patterns and VBA/macros for enhanced interactivity (macro-enabled .xlsm file)
 
 
-*Tools Used* <br/>
+
+***Tools Used*** <br/>
 
 Microsoft Excel (with macros)
 
@@ -17,7 +18,7 @@ VBA (for macro-based enhancements)
 Data Wrangling in Excel
 
 
-*Concepts Covered* <br/>
+***Concepts Covered*** <br/>
 
 Data aggregation and pattern recognition
 
